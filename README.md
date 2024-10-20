@@ -19,3 +19,5 @@ This tool allows game designers to create or tweak shaders by adjusting paramete
    ```
 
 2. Adjust the shader parameters using the sliders and export the shader settings to a text file or GLSL file.
+
+Written by Idlan bin Hafiz
