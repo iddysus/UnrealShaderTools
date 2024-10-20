@@ -2,6 +2,8 @@
 import tkinter as tk
 from tkinter import ttk
 
+# Written by Idlan bin Hafiz
+
 # Main window setup
 root = tk.Tk()
 root.title("Shader Customization Tool")
